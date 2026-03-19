@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:21:38	5142/5142	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%2269b0b3ec-239b%22	https://check-64.github.io/robots.txt		(from )
+00:21:39	13914/13914	---M-Z	200	added ('OK')	text/html	etag:W/%2269bc10a6-365a%22	https://check-64.github.io/V3/	C:/My%20Web%20Sites/challan_web/check-64.github.io/V3/index.html	(from )
+00:21:40	45956/45956	---M--	200	added ('OK')	image/png	etag:%2214db067628bbf10c3da1b54837b1cb3f%22	https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-ywa5DqI4ksHnp65zi05nOOeteJFSJ6.png	C:/My%20Web%20Sites/challan_web/hebbkx1anhila5yf.public.blob.vercel-storage.com/image.png	(from https://check-64.github.io/V3/)
